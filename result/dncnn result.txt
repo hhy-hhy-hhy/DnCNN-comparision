@@ -1,0 +1,43 @@
+2026-03-15 22:11:55: load trained model
+     Set14 : baboon.bmp : 0.5042 second
+2026-03-15 22:11:56: Datset: Set14      
+  PSNR = 20.21dB, SSIM = 0.0452
+     Set14 : barbara.bmp : 0.9114 second
+2026-03-15 22:11:57: Datset: Set14      
+  PSNR = 20.21dB, SSIM = 0.0452
+     Set14 : bridge.bmp : 0.5498 second
+2026-03-15 22:11:58: Datset: Set14      
+  PSNR = 20.21dB, SSIM = 0.1429
+     Set14 : coastguard.bmp : 0.2568 second
+2026-03-15 22:11:58: Datset: Set14      
+  PSNR = 20.21dB, SSIM = 0.1289
+     Set14 :  comic.bmp : 0.1868 second
+2026-03-15 22:11:58: Datset: Set14      
+  PSNR = 20.22dB, SSIM = 0.1195
+     Set14 :   face.bmp : 0.1595 second
+2026-03-15 22:11:58: Datset: Set14      
+  PSNR = 20.22dB, SSIM = 0.1128
+     Set14 : flowers.bmp : 0.3810 second
+2026-03-15 22:11:59: Datset: Set14      
+  PSNR = 20.22dB, SSIM = 0.1076
+     Set14 : foreman.bmp : 0.2142 second
+2026-03-15 22:11:59: Datset: Set14      
+  PSNR = 20.22dB, SSIM = 0.1034
+     Set14 :  lenna.bmp : 0.5779 second
+2026-03-15 22:12:00: Datset: Set14      
+  PSNR = 20.22dB, SSIM = 0.0999
+     Set14 :    man.bmp : 0.5636 second
+2026-03-15 22:12:00: Datset: Set14      
+  PSNR = 20.22dB, SSIM = 0.0970
+     Set14 : monarch.bmp : 0.8269 second
+2026-03-15 22:12:01: Datset: Set14      
+  PSNR = 20.22dB, SSIM = 0.0946
+     Set14 : pepper.bmp : 0.5744 second
+2026-03-15 22:12:02: Datset: Set14      
+  PSNR = 20.22dB, SSIM = 0.0924
+     Set14 :   ppt3.bmp : 0.7324 second
+2026-03-15 22:12:03: Datset: Set14      
+  PSNR = 20.21dB, SSIM = 0.0904
+     Set14 :  zebra.bmp : 0.5642 second
+2026-03-15 22:12:03: Datset: Set14      
+  PSNR = 20.21dB, SSIM = 0.0887
